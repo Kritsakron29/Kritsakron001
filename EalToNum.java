@@ -1,5 +1,5 @@
-
-    import java.util.Scanner;
+import java.util.Scanner;
+public class EalToNum {
     public static void main(String[] args) {
         int number;
         Scanner num = new Scanner(System.in);
@@ -52,5 +52,5 @@
         }
     }
 
-
+}
 
